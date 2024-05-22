@@ -20,6 +20,6 @@ O ProjectCost é um projeto desenvolvido com o objetivo de ajudar no aprendizado
 - Node.js e npm instalados globalmente.
 
 ### Instalação
-1. Clone o repositório: git clone https://Vncsalves/protask.git
+1. Clone o repositório: git clone https://Vncsalves/ProjectCost.git
 2. Navegue até o diretório do projeto: cd protask
 3. Instale as dependências: npm install
